@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+May 29, 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare_2.py allows users to load, filter, and optionally view bikeshare rental data files, then view summary statistics such as most common routes, days,
+average length of rental.
 
 ### Files used
-Include the files used
+#### code
+bikeshare_2.py - python code for viewing and summarizing data
+
+#### data files
+chicago.csv - **Required, but not included**  
+new_york_city.csv **Required, but not included**  
+washington.csv **Required, but not included**  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit goes to the Udacity curriculum staff, without whom I can honestly say
+I would never have dreamed of this project.
