@@ -1,8 +1,8 @@
+## Project Title
+Bikeshare
+
 ### Date created
 May 29, 2021
-
-### Project Title
-Bikeshare
 
 ### Description
 Bikeshare_2.py allows users to load, filter, and optionally view bikeshare rental data files, then view summary statistics such as most common routes, days,
