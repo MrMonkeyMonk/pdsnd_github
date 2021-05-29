@@ -29,19 +29,19 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = input('Which city would you like to analyze?\n(Chicago, New York City, Washington): ').lower()
     while city not in CITY_DATA.keys():
-        print("\nThat's not a valid city")
+        print("\nThat's not a valid city!")
         city = input('Which city would you like to analyze?\n(Chicago, New York City, Washington): ').lower()
 
     # get user input for month (all, january, february, ... , june)
     month = input('Which month would you like to filter by?\n(full month name or "all"): ').lower()
     while month != 'all' and month not in MONTHS:
-        print("\nThat's not a valid month")
+        print("\nThat's not a valid month!")
         month = input('Which month would you like to filter by?\n(full month name or "all"): ').lower()
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     day = input('Which day would you like to filter by?\n(full day name or "all"): ').lower()
     while day != 'all' and day not in DAYS_OF_WEEK:
-        print("\nThat's not a valid day")
+        print("\nThat's not a valid day!")
         day = input('Which day would you like to filter by?\n(full day name or "all"): ').lower()
 
     print('-' * 40)
