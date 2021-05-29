@@ -10,12 +10,12 @@ average length of rental.
 
 ### Files used
 #### code
-bikeshare_2.py - python code for viewing and summarizing data
+- bikeshare_2.py - python code for viewing and summarizing data
 
 #### data files
-chicago.csv - **Required, but not included**  
-new_york_city.csv **Required, but not included**  
-washington.csv **Required, but not included**  
+- chicago.csv - **Required, but not included**  
+- new_york_city.csv **Required, but not included**  
+- washington.csv **Required, but not included**  
 
 ### Credits
 Credit goes to the Udacity curriculum staff, without whom I can honestly say
